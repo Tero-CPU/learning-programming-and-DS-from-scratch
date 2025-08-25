@@ -1,2 +1,2 @@
 # learning-programming-and-DS-from-scratch
-My first code
+Я изучаю свой путь программиста с нуля в сфере Data Science
